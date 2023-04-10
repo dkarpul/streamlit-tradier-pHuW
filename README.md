@@ -1,4 +1,4 @@
-# streamlit-tradier
+# streamlit-tradier3
 A sample [Streamlit](https://streamlit.io/) web application for retrieving a stock quote using Tradier API.
 ![streamlit-tradier](./streamlit-tradier.png)
 
